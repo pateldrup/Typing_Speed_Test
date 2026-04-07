@@ -39,7 +39,8 @@ Final result is shown after completion
 
 📸 Screenshots
 
-(Add 3–4 screenshots here 🔥)
+<img width="1406" height="750" alt="image" src="https://github.com/user-attachments/assets/a6015d98-0459-437f-a7f0-8a424b49f6a0" />
+
 
 📂 Project Structure
 
